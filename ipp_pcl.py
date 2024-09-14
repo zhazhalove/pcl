@@ -1,7 +1,7 @@
 import requests
 
 # Define the printer IP address and IPP endpoint
-printer_ip = "192.168.1.31"   # Your printer's IP address
+printer_ip = "x.x.x.x"   # Your printer's IP address
 printer_port = "631"          # Default IPP port is 631
 ipp_path = "/"                # Based on the IPP report, the endpoint is at the root
 
