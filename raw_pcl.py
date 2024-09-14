@@ -1,7 +1,7 @@
 import socket
 
 # Define the printer IP address and port 9100
-printer_ip = "192.168.1.31"  # Your printer's IP address
+printer_ip = "X.X.X.X"  # Your printer's IP address
 printer_port = 9100          # Port 9100 for RAW printing
 
 # Create the PCL commands
